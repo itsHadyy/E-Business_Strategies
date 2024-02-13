@@ -4,7 +4,7 @@
 Welcome to the E-Business Strategies Course repository! This repository contains all the materials and resources you need for the course. Below is a brief description of each section:
 
 
-# Materials:
+## Materials:
 
   - Section slides
   - HTML files
