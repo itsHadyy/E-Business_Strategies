@@ -20,11 +20,10 @@ Welcome to the E-Business Strategies Course repository! This repository contains
   - Star this repository to your profile so you can access it easily anytime.
   - Access each section's materials by navigating to the respective folders.
   - Feel free to contribute by adding your own notes, resources, or assignments.
-  - 
 
 ## Contact
 
 If you have any questions or need assistance, feel free to reach out to at itshadyy@gmail.com or via our WhatsApp group.
 
 Happy learning!
-- Hady Korshem
+Hady Korshem
