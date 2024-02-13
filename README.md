@@ -17,7 +17,7 @@ Welcome to the E-Business Strategies Course repository! This repository contains
 
 ## How to Use This Repository
 
-  - Star this repository to your profile so you can access it easily anytime.
+  - Fork this repository to your profile so you can access it easily anytime.
   - Access each section's materials by navigating to the respective folders.
   - Feel free to contribute by adding your own notes, resources, or assignments.
 
